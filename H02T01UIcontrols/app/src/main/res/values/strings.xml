@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">H02T01 UI controls</string>
+    <string name="radio0">Radio0 testing testing</string>
+    <string name="radio1">Radio1 testing testing</string>
+    <string name="radio2">Radio2 testing testing</string>
+    <string name="radio3">Radio3 testing testing</string>
+    <string name="radio4">Radio4 testing testing</string>
+</resources>
